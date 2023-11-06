@@ -34,15 +34,19 @@
           
     
 ###
-  <a href = "mailto:mrgconta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "[https://www.linkedin.com/in/brunopduarte/](https://www.linkedin.com/in/gabriel-amorim-b32b26204/)" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://api.whatsapp.com/send?phone=5531971478793&text=ol%C3%A1%2C%20vim%20pelo%20seu%20perfil%20do%20GitHub!%20"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://discordapp.com/users/317009197122322442/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 ##
   
   
 
-[Snake animation](https://github.com/brunopdt/GabrielAm0/blob/output/github-contribution-grid-snake.svg)
- 
+  
+![Snake animation](https://github.com/andrecandrad/andrecandrad/blob/output/github-contribution-grid-snake.svg)
+  ##
+
+  
+<a href = "[https://www.linkedin.com/in/brunopduarte/](https://www.linkedin.com/in/gabriel-amorim-b32b26204/)" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:mrgconta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://api.whatsapp.com/send?phone=5531971478793&text=ol%C3%A1%2C%20vim%20pelo%20seu%20perfil%20do%20GitHub!%20"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/gabriel_am0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://discordapp.com/users/317009197122322442/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 </div>
