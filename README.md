@@ -6,11 +6,9 @@
 <br />
 
 
-- 💻 Desenvolvedor fullstack
-- 🔭 Estudante de Sistemas de informação
-##
-- 💻 Fullstack developer
-- 🔭 Information Systems Student
+- 💻 Fullstack developer/ Desenvolvedor fullstack
+- 🔭 Information Systems Student/ Estudante de Sistemas de informação
+
 
 
 ###
