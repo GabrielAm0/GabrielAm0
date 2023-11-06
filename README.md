@@ -8,7 +8,7 @@
 
 - 💻 Desenvolvedor fullstack
 - 🔭 Estudante de Sistemas de informação
-- 
+<br />
 - 💻 Fullstack developer
 - 🔭 Information Systems Student
 
