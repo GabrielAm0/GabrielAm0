@@ -17,8 +17,8 @@
 
 <div align="center">
   <a href="https://github.com/GabrielAm0">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=brunopdt&theme=dracula&show_icons=true"/>
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopdt&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=GabrielAm0&theme=dracula&show_icons=true"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAm0&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 
