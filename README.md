@@ -37,7 +37,7 @@ const Gabriel = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,cs,mysql,php,react,css,html,git" />
+    <img src="https://skillicons.dev/icons?i=js,cs,mysql,react,css,html,git" />
   </a>
 </p>
 
