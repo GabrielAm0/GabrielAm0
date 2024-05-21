@@ -6,7 +6,7 @@ const Gabriel = {
   age: 20,
   location: 'Brazil',
   likes: ['Coding', 'Football', 'Movies', 'Music'],
-  occupation: 'Software Development Intern',
+  occupation: 'Junior Software Development',
   education: [
     {
       area: 'Computer Science',
@@ -18,7 +18,7 @@ const Gabriel = {
       area: 'Information Systems',
       degree: 'BS',
       institution: 'PUC Minas',
-      status: 'Enrolled',
+      status: 'Attending',
     },
   ],
 };
