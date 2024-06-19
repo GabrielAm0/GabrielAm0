@@ -3,7 +3,7 @@
 
 ```js
 const Gabriel = {
-  age: 20,
+  age: 21,
   location: 'Brazil',
   likes: ['Coding', 'Football', 'Movies', 'Music'],
   occupation: 'Junior Software Development',
